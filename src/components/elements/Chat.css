@@ -1,0 +1,89 @@
+.mainChat {
+    position: relative;
+    width: 300px;
+    height: 500px;
+    background-color:coral;
+    border-radius: 7%;
+    padding-left: 5px;
+}
+
+.allChat {
+    margin-left: 30%;
+}
+
+body {
+    background-color:burlywood;
+}
+
+.h1 {
+    border: 2px;
+    border-color: bisque;
+    border-style: dotted;
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    background-color:bisque;
+}
+
+.form {
+    margin-left: 2.5px;
+    margin-top: 15px;
+}
+
+.button {
+    background: color cadetblue;
+    color: black;
+}
+
+.input {
+    background-color:bisque;
+}
+
+.li {
+    background-color:cadetblue;
+    font-size: 24px;
+    display: inline;
+    margin-right: 5px;
+    border: 3px solid #000;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.Navbar {
+    display: flex;
+    justify-content: center;
+    color: chocolate;
+    width: 90%;
+}
+
+.divh1 {
+    display: flex;
+    justify-content: center;
+}
+
+.message {
+    border: 1px solid bisque;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.divp {
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    border: 3px solid black;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.players {
+    display: flex;
+    justify-content: center;
+    font-size: 17px;
+    background-color:cadetblue;
+    margin-right: 30%;
+    margin-left: 30%;
+    border-radius: 70%;
+}
+
+
